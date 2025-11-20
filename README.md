@@ -1,6 +1,6 @@
 # Multimodal Target Predictor - Deployment
 
-# 🎯 Multimodal Target Predictor - Deployment App
+# Multimodal Target Predictor - Deployment App
 
 This is a standalone **Streamlit** application designed to predict target values using a **Hybrid Ensemble Model**. It combines structured tabular data (via CatBoost) and unstructured image data (via ResNet18 feature extraction) to generate accurate predictions with uncertainty quantification.
 
